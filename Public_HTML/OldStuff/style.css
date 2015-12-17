@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Playball);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+img {
+    -webkit-box-shadow: 3px 3px 3px #7C7C7C;
+    box-shadow: 3px 3px 3px #7C7C7C;
+    }
+body {background: linear-gradient(-45deg, rgba(0,12,237,1) 0%,
+ rgba(255,255,255,1) 50%, rgba(255,255,255,1) 51%, rgba(255,0,0,1) 100%);
+    background-attachment: fixed;
+	font-family: chewy; playball; Satisfy; Rock Salt; Pacifico; Bangers; Special Elite} 
+    
+a:hover { 
+    background-color: #cccccc;
+}
+	.chewy{
+		font-family: chewy;
+	}
+	.playball{
+	font-family: playball;
+	}
+	.satisfy{
+		font-family: Satisfy;
+	}
+	.rocksalt{
+		font-family: Rock Salt
+	}
+	.pacifico{
+		font-family: Pacifico
+	}
+	.bangers{
+		font-family: Bangers
+	}
+	.specialelite{
+		font-family: Special Elite
+	}
+a:link { color: #66FF33
+}
